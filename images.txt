@@ -1,5 +1,2 @@
-kuaifan/php:swoole-8.0
-onlyoffice/documentserver:7.0.0.132
-kuaifan/fileview:4.1.0-SNAPSHOT-RC4
-jgraph/drawio:16.6.1
-jgraph/export-server
+mongo:latest
+docker.elastic.co/elasticsearch/elasticsearch:5.5.1
