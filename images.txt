@@ -1,1 +1,1 @@
-docker.io/library/alpine:latest
+godoos/godoos:latest
