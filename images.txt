@@ -1,1 +1,1 @@
-bunkerity/bunkerweb:1.5.9
+chat2db/chat2db:latest
