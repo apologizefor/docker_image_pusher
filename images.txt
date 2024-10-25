@@ -1,1 +1,1 @@
-nocodb/nocodb:latest
+node
