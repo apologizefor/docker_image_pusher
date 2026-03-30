@@ -1,1 +1,3 @@
-samwaf/samwaf
+golang:alpine
+golang:1.24-alpine
+alpine:3.19
