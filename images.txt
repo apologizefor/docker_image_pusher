@@ -1,7 +1,1 @@
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-docreader:latest
-pgvector/pgvector:pg16
-redis:7.0-alpine
-neo4j:5.22-community
-langfuse/langfuse:3
+chrislusf/seaweedfs:latest
